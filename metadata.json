@@ -1,0 +1,6 @@
+{
+  "name": "WebForge Studio",
+  "description": "Powerful HTML, CSS & JavaScript editor featuring live responsive preview, DOM inspector, real-time syntax coloring, JS console, code linter, templates, color picker, and multi-file project management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
